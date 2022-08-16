@@ -347,5 +347,10 @@ namespace AD_Arduino_File_Sender_v1._0
             Form2 f = new Form2();
             f.ShowDialog();
         }
+
+        private void githubToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/wolftrx/Arduino-Chat-and-File-Sender");
+        }
     }
 }
