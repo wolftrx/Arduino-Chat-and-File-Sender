@@ -1,0 +1,12 @@
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\bin\Debug\AD Arduino File Sender v1.0.exe.config
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\bin\Debug\AD Arduino File Sender v1.0.exe
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\bin\Debug\AD Arduino File Sender v1.0.pdb
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.csproj.AssemblyReference.cache
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD_Arduino_File_Sender_v1._0.Form1.resources
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD_Arduino_File_Sender_v1._0.Properties.Resources.resources
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.csproj.GenerateResource.cache
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.exe
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD Arduino File Sender v1.0.pdb
+C:\Users\Monsterx\Documents\Visual Studio 2022\Projects\AD Arduino File Sender v1.0\obj\Debug\AD_Arduino_File_Sender_v1._0.Form2.resources
